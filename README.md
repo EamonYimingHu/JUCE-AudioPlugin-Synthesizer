@@ -10,8 +10,13 @@ An audio plugin build by JUCE, synth with Reverb, Modulation, Unison Effect, LFO
 
 # 音频DSP实现：
 ● 振荡器的基础类；再利用variadic class，std::variant实现其子类变体LFO；
+
 ● 混响Reverb效果；
+
 ● Unison效果与Detune效果；
+
 ● 设置LFO控制任何其他参数；
+
 ● 滤波器类型截止频率及Resonance频率；
+
 ● 合成器中主振荡器的ADSR
