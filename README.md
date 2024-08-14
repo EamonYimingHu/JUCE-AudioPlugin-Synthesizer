@@ -1,7 +1,7 @@
 # JUCE-AudioPlugin-Synthesizer
 An audio plugin build by JUCE, synth with Reverb, Modulation, Unison Effect, LFO Control, Filter,etc
 
-使用C++ JUCE框架开发的音频插件
+使用C++ JUCE框架开发的音频插件，最终可生成VST3，AU格式插件
 # 从音频的DSP从基础实现：
 ● 振荡器的基础类；再利用variadic class，std::variant实现其子类变体LFO；
 
