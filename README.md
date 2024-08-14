@@ -2,7 +2,7 @@
 An audio plugin build by JUCE, synth with Reverb, Modulation, Unison Effect, LFO Control, Filter,etc
 
 使用C++ JUCE框架开发的音频插件
-# 从基础的音频DSP实现：
+# 从音频的DSP从基础实现：
 ● 振荡器的基础类；再利用variadic class，std::variant实现其子类变体LFO；
 
 ● 混响Reverb效果；
